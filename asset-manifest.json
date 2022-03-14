@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/BreakingBadQuotes/static/css/main.770df495.css",
+    "main.js": "/BreakingBadQuotes/static/js/main.2d9a71b5.js",
+    "static/media/bg.jpg": "/BreakingBadQuotes/static/media/bg.a900c0cf99353fcbf103.jpg",
+    "static/media/hb1.jpg": "/BreakingBadQuotes/static/media/hb1.4eaf7469199b3bec376b.jpg",
+    "static/media/ss.jpg": "/BreakingBadQuotes/static/media/ss.8fe224835423a5533363.jpg",
+    "static/media/hb.jpg": "/BreakingBadQuotes/static/media/hb.ed32afd5b314fd84ba7a.jpg",
+    "index.html": "/BreakingBadQuotes/index.html",
+    "main.770df495.css.map": "/BreakingBadQuotes/static/css/main.770df495.css.map",
+    "main.2d9a71b5.js.map": "/BreakingBadQuotes/static/js/main.2d9a71b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.770df495.css",
+    "static/js/main.2d9a71b5.js"
+  ]
+}
